@@ -19,4 +19,7 @@
 
 - <a>Xem thêm: https://github.com/jhammann/sakura</a>
 - <a>Youtube: https://youtu.be/6EcQM2rAcYY</a>
+- Các bước để chạy: clone project -> mở folder falling -> thực hiện lệnh npm i để cài node_modules, hoặc làm theo video
+
+<img width="960" alt="chrome_36B89gvX4V" src="https://user-images.githubusercontent.com/125715987/221852559-b87495bc-95d4-4c44-891f-44f3b7ee3629.png">
 
