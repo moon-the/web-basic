@@ -29,3 +29,12 @@
 
 <img width="960" alt="chrome_8jQt0NQX4o" src="https://user-images.githubusercontent.com/125715987/222067904-78f2d63c-d9c9-4177-acc8-4353f84bee56.png">
 
+
+# loading
+
+- <a>Xem thêm: https://cssloaders.github.io/</a>
+- <a>Youtube: https://youtu.be/AXdQBEKDhtc</a>
+
+<img width="947" alt="loader" src="https://user-images.githubusercontent.com/125715987/222648402-7ee2f977-e8c2-4528-9f33-2997a4289a4b.png">
+
+
