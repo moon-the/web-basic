@@ -37,4 +37,12 @@
 
 <img width="947" alt="loader" src="https://user-images.githubusercontent.com/125715987/222648402-7ee2f977-e8c2-4528-9f33-2997a4289a4b.png">
 
+# text animation
+- <a>Xem thêm: https://codepen.io/collection/ABaxyy</a>
+- <a>Youtube: https://youtu.be/zkHqIik7C4c </a>
+
+https://user-images.githubusercontent.com/125715987/222754497-a4a8dc08-fb51-492a-b90b-736dcb9caafd.mp4
+
+
+
 
