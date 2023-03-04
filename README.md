@@ -43,6 +43,11 @@
 
 https://user-images.githubusercontent.com/125715987/222754497-a4a8dc08-fb51-492a-b90b-736dcb9caafd.mp4
 
+# text typing animation
+- <a>Xem thêm: https://github.com/mattboldt/typed.js/</a>
+- <a>Youtube: https://youtu.be/uFY_HjAU6Fg</a>
+<img width="960" alt="typed" src="https://user-images.githubusercontent.com/125715987/222913839-5de58682-68dc-4a82-94bd-29bc00a6db53.png">
+
 
 
 
