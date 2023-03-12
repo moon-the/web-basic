@@ -48,6 +48,12 @@ https://user-images.githubusercontent.com/125715987/222754497-a4a8dc08-fb51-492a
 - <a>Youtube: https://youtu.be/uFY_HjAU6Fg</a>
 <img width="960" alt="typed" src="https://user-images.githubusercontent.com/125715987/222913839-5de58682-68dc-4a82-94bd-29bc00a6db53.png">
 
+# tags-input
+- <a>Xem thêm: https://github.com/iamqamarali/vanilla-tags-input</a>
+- <a>Youtube: https://youtu.be/0ZMw-mHinZU</a>
+<img width="960" alt="chrome_VI738v2KYE" src="https://user-images.githubusercontent.com/125715987/224536991-e5fad2f4-5f8a-4032-aa01-9ae9c8eefb3d.png">
+
+
 
 
 
