@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Tags-input CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/vanilla-tags-input/tags-input.css">
+    
+    <!-- Tags-input JavaScript -->
+    <script src="https://unpkg.com/vanilla-tags-input"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <input type="text" id="tag-input1">
+    <script>
+        var tagInput1 = new TagsInput({
+                selector: 'tag-input1',
+                duplicate: false,
+                max: 10
+            });
+    </script>
+</body>
+</html>

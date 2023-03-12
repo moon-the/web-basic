@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(78, 78, 78);
+}
+
+.tags-input-wrapper .tag{
+    color: blue;
+    background-color: rgb(229, 239, 251);
+    box-shadow: 0 5px 15px -2px rgba(229, 251, 251, .7);
+}
