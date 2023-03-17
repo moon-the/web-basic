@@ -54,7 +54,7 @@ https://user-images.githubusercontent.com/125715987/222754497-a4a8dc08-fb51-492a
 <img width="960" alt="chrome_VI738v2KYE" src="https://user-images.githubusercontent.com/125715987/224536991-e5fad2f4-5f8a-4032-aa01-9ae9c8eefb3d.png">
 
 # shine img hover
-- <a>Xem thêm: </a>
+- <a>Xem thêm: https://codepen.io/jackdomleo7/pen/XWmzeNb </a>
 - <a>Youtube: https://youtu.be/E0Ls-DFAtCI </a>
 
 https://user-images.githubusercontent.com/125715987/225836255-47f018fb-3480-4782-8b0c-812bb5d3b11f.mp4
