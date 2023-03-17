@@ -1,0 +1,52 @@
+body{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.image-wrapper{
+    width: 12rem;
+    border-radius: 6px;
+    background-color: #ccc;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.image-wrapper img{
+    height: auto;
+    max-width: 100%;
+}
+
+.shine{
+    position: relative;
+    overflow: hidden;
+}
+
+.shine::before{
+    background: linear-gradient(to right, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.3) 100%);
+    content: "";
+    display: block;
+    height: 100%;
+    left: -75%;
+    position: absolute;
+    top: 0;
+    transform: skewX(-25deg);
+    width: 50%;
+    z-index: 2;
+}
+
+.shine:hover::before,
+.shine:focus::before{
+    animation: shine 0.85s;
+}
+
+@keyframes shine{
+    100%{
+        left: 125%;
+    }
+}
