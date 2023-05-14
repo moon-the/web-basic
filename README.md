@@ -58,6 +58,12 @@ https://user-images.githubusercontent.com/125715987/222754497-a4a8dc08-fb51-492a
 - <a>Youtube: https://youtu.be/E0Ls-DFAtCI </a>
 
 https://user-images.githubusercontent.com/125715987/225836255-47f018fb-3480-4782-8b0c-812bb5d3b11f.mp4
+  
+# button hover effects
+  - <a>Xem thêm: </a>
+  - <a>Youtube: https://youtu.be/d3VFkOksDGI </a>
+  
+ https://github.com/moon-the/web-basic/assets/125715987/1e2e66fa-3e22-4938-96ac-cda3ba3e2fec
 
 
 
